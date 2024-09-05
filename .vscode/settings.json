@@ -1,0 +1,11 @@
+{
+    "cSpell.words": [
+        "levelname"
+    ],
+    "vim.overrideCopy": false,
+    "editor.copyWithSyntaxHighlighting": false,
+    "editor.emptySelectionClipboard": false,
+    "python.analysis.extraPaths": [
+        "./data"
+    ]
+}
